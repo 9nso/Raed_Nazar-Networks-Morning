@@ -1,0 +1,15 @@
+Name : Raed Nazar Mahdi
+branch : Computer Networks engineering /Morning 
+4th Class
+discusson of lecuter 0:
+1-What is the web development and what are types of it?
+so/
+Web development is the process of creating websites and web applications. It involves designing, building, and maintaining websites. There are three main types of web development: front-end, back-end, and full-stack
+2-What is difference between web developers and web designers?
+so/
+Web designers focus on the visual and usability aspects of a website, such as branding colors, layout, and typography. They use software like Photoshop, Corel Draw, etc. to create visually
+web developers are responsible for the technical aspects of a website. They take the design created by web designers and convert it into a fully functioning website using different software and tools like Javascript, jQuery, Node.js, PHP, ASP.NET Python, etc.
+
+3-Is the best for web developer to be full stack development or just one type of development?
+so/
+The full stack development is better than one type of programming because the full stack developer has more knowledge than one type of programming because the many technologies that he can work with, and the more powerful problem-solving ability that he will gain.
